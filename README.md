@@ -1,6 +1,6 @@
-# ohwyy_proj_template
+# earthcode_hackathon_proj_template
 
-Template for starting Oceanhackweek project repos. 
+Template for starting ESA EarthCODE Hackathon project repos. 
 
 This repo is an example of how teams can structure their project repositories and format their project README.md file, but feel free to adapt as suits your needs.
 
@@ -35,7 +35,7 @@ You can start with a simple structure and as you progress you can refine it to c
 
 * Initial idea: "short description"
 * Ideation Slide: Add link
-* Slack channel: ohw26_proj_name
+* Discourse channel: esahack26_proj_name
 * Final presentation: Add link
 
 ## Background
