@@ -11,7 +11,7 @@ This repo is an example of how teams can structure their project repositories an
 3. Give the repository a name using the pattern `eh26_proj_[project-name]` (e.g., `eh26_proj_beautiful-ocean-data-cube`).
 4. Keep visibility as Public, and click "Create repository"
 
-**Folder Structure**
+## Folder Structure
 
 * `contributor_folders` (optional) Each contributor can make a folder here and 
 push their work here during the week. This will allow everyone to see each others work but prevent any merge conflicts. It is good if participants are new to collaborative coding.
