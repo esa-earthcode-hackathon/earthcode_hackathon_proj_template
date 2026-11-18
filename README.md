@@ -1,8 +1,11 @@
-# earthcode_hackathon_proj_template
+# EarthCODE Hackathon Project Template
 
-Template for starting ESA EarthCODE Hackathon project repos. 
+Template for starting ESA EarthCODE Hackathon project repositories. 
 
 This repo is an example of how teams can structure their project repositories and format their project README.md file, but feel free to adapt as suits your needs.
+
+To use this template, click on the <img height="30" alt="Use This Template" src="https://github.com/user-attachments/assets/ad4780eb-91f7-40f7-9ed8-8146972bad97" /> button in the top right of this page and choose "Create a New Repository". On the next page, choose `esa-earthcode-hackathon` in the "Owner" dropdown menu. Give the repository a name using the pattern `eh26_proj_[project-name]` (e.g., `eh26_proj_beautiful-ocean-data-cube`).
+
 
 **Folder Structure**
 
@@ -35,7 +38,7 @@ You can start with a simple structure and as you progress you can refine it to c
 
 * Initial idea: "short description"
 * Ideation Slide: Add link
-* Discourse channel: esahack26_proj_name
+* Slack channel: eh26_proj-name
 * Final presentation: Add link
 
 ## Background
